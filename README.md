@@ -40,4 +40,5 @@ Step 3: Put the following code into your @ExileServer/addons/exile_server_config
 ```
 
 Step 4: Pack your .pbo and upload it to your GameServer
+
 Step 5: Start your GameServer
