@@ -4,7 +4,7 @@ Step 1:
   Put the folder "uid_loadout" into your Exile.Altis
 
 Step 2:
-  Put following code into your Exile.Altis/config.cpp - class CfgExileCustomCode:
+  Put following code into your Exile.Altis/config.cpp under class CfgExileCustomCode:
 ```
   ExileServer_object_player_network_createPlayerRequest = "uid_loadout\ExileServer_object_player_network_createPlayerRequest.sqf";
 ```
